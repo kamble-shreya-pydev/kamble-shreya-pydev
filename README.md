@@ -102,14 +102,6 @@ A full-stack web application focused on **backend data handling, API responses, 
 
 ---
 
-### 🌐 Portfolio Website  
-A responsive personal portfolio built using **HTML, CSS, and JavaScript**, showcasing projects and skills.
-
----
-
-### 🧩 Mini Projects  
-To-Do Web Application • Login & Signup System • CRUD-based Web Applications  
-
 </div>
 
 ---
