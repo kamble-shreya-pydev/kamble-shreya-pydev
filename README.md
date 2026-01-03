@@ -2,15 +2,15 @@
 
 # 👋 Hello, I’m <span style="color:#4CAF50;">Shreya Kamble</span>
 
-<!-- Animated Role Title -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=4CAF50&center=true&vCenter=true&width=500&lines=Python+Full+Stack+Developer;Backend+Logic+%26+API+Focused;Learning+by+Building" alt="Typing SVG" />
+<!-- Animated Role -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=4CAF50&center=true&vCenter=true&width=520&lines=Python+Full+Stack+Developer;Backend+Logic+%26+API+Focused;Learning+by+Building" alt="Typing SVG" />
 
----
+<br/>
 
-💻 **Python • SQL • HTML5 • CSS3 • JavaScript • React.js**
+🧑‍💻 **Python • SQL • HTML5 • CSS3 • JavaScript • React.js**
 
 I build **functional full-stack web applications** with a strong focus on  
-**backend logic, APIs, and database-driven workflows**, along with clean and responsive frontend UI.
+**backend logic, REST-style APIs, and database-driven workflows**, supported by clean and responsive frontend UI.
 
 </div>
 
@@ -22,8 +22,8 @@ I build **functional full-stack web applications** with a strong focus on
 
 </div>
 
-I am a **Python Full Stack Developer** with hands-on experience building web applications from end to end.  
-I enjoy working on **backend logic, APIs, and databases**, while also creating **user-friendly and responsive interfaces** on the frontend.
+I am a **Python Full Stack Developer** with hands-on experience building web applications end-to-end.  
+My primary interest lies in **backend logic, APIs, and databases**, while also working comfortably with frontend technologies when required.
 
 I believe in **clean code, continuous learning, and practical problem-solving**, and I actively build projects to strengthen my development fundamentals.
 
@@ -31,23 +31,27 @@ I believe in **clean code, continuous learning, and practical problem-solving**,
 
 <div align="center">
 
-## 🔧 Technical Skills
+## 🛠️ Tech Stack
 
 </div>
 
 <div align="center">
 
-### 🖥️ Frontend Development  
-HTML5 • CSS3 • JavaScript (ES6+) • React.js  
+### 🎨 Frontend  
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
 
-### ⚙️ Backend Development  
-Python • REST-style APIs • Server-side logic • Validation & error handling  
+### ⚙️ Backend  
+<img src="https://skillicons.dev/icons?i=python" />
 
-### 🗄️ Databases  
-SQL • MySQL  
+**Python • REST-style APIs • Server-side logic • Validation & error handling**
 
-### 🛠️ Tools & Practices  
-Git & GitHub • VS Code • Debugging • Clean Code Practices  
+### 🗄️ Database  
+<img src="https://skillicons.dev/icons?i=mysql" />
+
+**SQL • MySQL**
+
+### 🔧 Tools  
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 </div>
 
@@ -55,16 +59,16 @@ Git & GitHub • VS Code • Debugging • Clean Code Practices
 
 <div align="center">
 
-## 🧠 Backend Responsibilities (Project-Based)
+## 🧠 Backend Responsibilities
 
 </div>
 
 <div align="center">
 
-✔ Designed server-side logic for handling user requests  
+✔ Designed server-side logic to handle client requests  
 ✔ Implemented REST-style API endpoints  
 ✔ Managed database interactions using SQL  
-✔ Applied input validation and error handling  
+✔ Applied validation and error handling  
 ✔ Structured backend code for readability and maintainability  
 
 </div>
@@ -73,17 +77,17 @@ Git & GitHub • VS Code • Debugging • Clean Code Practices
 
 <div align="center">
 
-## 🚀 What I’m Currently Working On
+## 🚀 Currently Focused On
 
 </div>
 
 <div align="center">
 
-• Enhancing full-stack development using **Python & React.js**  
-• Building **real-world web applications**  
-• Improving **SQL queries and database design**  
-• Writing **clean, reusable, and maintainable code**  
-• Practicing **Git workflows and version control**  
+🔹 Strengthening **full-stack development** using Python & React.js  
+🔹 Building **real-world backend-driven applications**  
+🔹 Improving **SQL queries and database design**  
+🔹 Writing **clean, reusable, and maintainable code**  
+🔹 Practicing **Git workflows and version control**
 
 </div>
 
@@ -91,24 +95,16 @@ Git & GitHub • VS Code • Debugging • Clean Code Practices
 
 <div align="center">
 
-## 📂 Featured Projects
+## 📂 Featured Project
 
 </div>
 
 <div align="center">
 
-### 🌱 AgriCare AI – Plant Growth & Health Analysis  
-A full-stack web application focused on **backend data handling, API responses, and practical problem-solving**, with a clean frontend interface.
+### 🌱 **AgriCare AI – Plant Growth & Health Analysis**
 
----
-
-### 🌐 Portfolio Website  
-A responsive personal portfolio built using **HTML, CSS, and JavaScript**, showcasing projects and skills.
-
----
-
-### 🧩 Mini Projects  
-To-Do Web Application • Login & Signup System • CRUD-based Web Applications  
+A full-stack web application designed to analyze plant growth and health conditions.  
+The backend focuses on **data handling, API responses, and practical problem-solving**, while the frontend presents insights in a user-friendly manner.
 
 </div>
 
@@ -123,10 +119,10 @@ To-Do Web Application • Login & Signup System • CRUD-based Web Applications
 <div align="center">
 
 ✔ Strong frontend–backend integration understanding  
-✔ Logical and structured problem-solving  
+✔ Logical and structured problem-solving approach  
 ✔ Quick learner with adaptability  
-✔ Focus on readable and maintainable code  
-✔ Consistent practice mindset  
+✔ Focus on clean and readable code  
+✔ Consistent practice and improvement mindset  
 
 </div>
 
@@ -139,9 +135,9 @@ To-Do Web Application • Login & Signup System • CRUD-based Web Applications
 📧 **Email:** kambleshreyak@gmail.com  
 💼 **LinkedIn:** https://www.linkedin.com/in/shreya-kamble-50a32b389  
 
-⭐ Feel free to explore my repositories. Feedback is welcome.
+⭐ Feel free to explore my repositories and share feedback.
 
----
+<br/>
 
 <sub>“Learning every day — one commit at a time.”</sub>
 
