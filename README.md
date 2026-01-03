@@ -102,10 +102,6 @@ A full-stack web application focused on **backend data handling, API responses, 
 
 ---
 
-</div>
-
----
-
 <div align="center">
 
 ## 💡 Strengths
